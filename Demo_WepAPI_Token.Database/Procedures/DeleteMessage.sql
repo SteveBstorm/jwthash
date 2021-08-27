@@ -1,0 +1,6 @@
+﻿CREATE PROCEDURE [dbo].[DeleteMessage]
+	@Id UNIQUEIDENTIFIER
+AS
+BEGIN
+	DELETE FROM [dbo].[Message] WHERE Id = @Id
+END

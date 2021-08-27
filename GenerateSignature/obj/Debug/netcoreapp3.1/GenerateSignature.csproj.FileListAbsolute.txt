@@ -1,0 +1,11 @@
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.exe
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.deps.json
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.runtimeconfig.json
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.runtimeconfig.dev.json
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.dll
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.pdb
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.csprojAssemblyReference.cache
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.AssemblyInfoInputs.cache
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.AssemblyInfo.cs
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.dll
+C:\Users\forma1700\source\repos\Demo_WepAPI_Token\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.pdb
